@@ -56,7 +56,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Tokken" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Intially we have taken the 1000 unit of tokken ,so to mint the tokken you to have to copy the address and give it to the the mint function having on left side of the compiler and give some value and same for the to burn the tokken.
+Intially we have taken the 1000 unit of tokken ,so to mint the tokken you to have to copy the address and give it to the the mint function having on left side of the compiler and give some value and the transact the value than deploy the function and you see the changes on total supply and same for the to burn the tokken.
      
      
      
